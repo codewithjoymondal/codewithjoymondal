@@ -3,7 +3,7 @@
 ![I am Student Of Computer Science Engineer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/p180x540/176982752_290468695910559_2590258971615359641_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeF5-BnyE7icoU1Ws0fwS6434mdWhmqOinviZ1aGao6Ke4jEiGtbBT8OYvxXunShxfyC6mhM0NA-acvPx9fO69ck&_nc_ohc=tWEWZJWRNA0AX9p5aU-&_nc_ht=scontent.fjsr8-1.fna&oh=ea341fc4066929aabb3bfd40e98b89c5&oe=61AE0B2F)
 
 
-Skills: Python / Java /  C  / C++
+Skills: Python / Java /  C  / C++ /Html /Js /CSS
 
 - 🔭 I’m currently working on Youtube 
 - 🌱 I’m currently learning Advance Java 
