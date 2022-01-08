@@ -22,4 +22,4 @@ Skills: Python / Java /  C  / C++ / Html / Js / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codewithjoymondal)  
 
-![Profile views](https://gpvc.arturio.dev/codewithjoymondal)  
+
